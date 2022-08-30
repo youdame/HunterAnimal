@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="x-windows-949">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/Researcher.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/animal/Animal.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/animal/Mermaid.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/animal/Phoenix.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/animal/Unicorn.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/place/Lab.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/place/Sea.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/place/Sky.java" charset="x-windows-949" />
+  </component>
+</project>
